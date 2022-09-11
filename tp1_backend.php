@@ -53,7 +53,6 @@ echo "Resto: ".$nro1 % $nro2;
 para el valor 20°C y luego lo imprima por pantalla.-->
 <?php
 $celsius = 20;
-$fahrenheit = 33.8;
 $conversion = $celsius * 1.8 + 32;
 
 echo "20ºC son ".$conversion. " grados Fahrenheit";
